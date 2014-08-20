@@ -1,0 +1,12 @@
+TStat[31626],2010-12-08 17:51:10	Used StatObj Num: 10	Used StatVal Num: 10
+StatID              |Desc                |Type    |Count   |Values
+ctrl_notify_num     |                    |Sum     |16      |16         
+proxy_ator_conn_num |                    |Update  |0       |0          
+work_fail_proc_num  |                    |Sum     |0       |0          
+work_ator_send_num  |                    |Sum     |15      |15         
+work_avg_proc_time  |                    |Avg     |15      |1          
+work_max_proc_time  |                    |Max     |15      |17         
+module_proc_num     |                    |Sum     |15      |15         
+proxy_ctor_recv_num |                    |Sum     |15      |15         
+work_ator_recv_num  |                    |Sum     |15      |15         
+proxy_ator_recv_num |                    |Sum     |15      |15         

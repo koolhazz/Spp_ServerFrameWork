@@ -1,0 +1,65 @@
+[2010-12-08 16:44:18][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 16:44:41][DEBUG ]spp_handle_fini
+[2010-12-08 16:44:49][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 16:54:28][DEBUG ]Get client Remote ip = 172.10.6.7,port=53222
+[2010-12-08 16:54:28][DEBUG ]spp_handle_route, 2,main_cmd=291,sub_cmd=0
+[2010-12-08 16:54:28][22117]spp_handle_process, 2, 39
+[2010-12-08 16:54:38][DEBUG ]Get client Remote ip = 172.10.6.7,port=53225
+[2010-12-08 16:54:38][DEBUG ]spp_handle_route, 3,main_cmd=291,sub_cmd=0
+[2010-12-08 16:54:38][22117]spp_handle_process, 3, 39
+[2010-12-08 16:54:39][DEBUG ]Get client Remote ip = 172.10.6.7,port=53228
+[2010-12-08 16:54:39][DEBUG ]spp_handle_route, 4,main_cmd=291,sub_cmd=0
+[2010-12-08 16:54:39][22117]spp_handle_process, 4, 39
+[2010-12-08 16:54:40][DEBUG ]Get client Remote ip = 172.10.6.7,port=53231
+[2010-12-08 16:54:40][DEBUG ]spp_handle_route, 5,main_cmd=291,sub_cmd=0
+[2010-12-08 16:54:40][22117]spp_handle_process, 5, 39
+[2010-12-08 17:27:39][DEBUG ]spp_handle_fini
+[2010-12-08 17:37:08][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 17:38:04][DEBUG ]spp_handle_fini
+[2010-12-08 17:42:57][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 17:43:30][DEBUG ]spp_handle_fini
+[2010-12-08 17:49:04][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 17:49:26][DEBUG ]Get client Remote ip = 172.10.6.7,port=58075
+[2010-12-08 17:49:26][DEBUG ]spp_handle_route, 1,main_cmd=291,sub_cmd=0
+[2010-12-08 17:49:26][31634]spp_handle_process, 1, 39
+[2010-12-08 17:49:30][DEBUG ]Get client Remote ip = 172.10.6.7,port=58078
+[2010-12-08 17:49:30][DEBUG ]spp_handle_route, 2,main_cmd=291,sub_cmd=0
+[2010-12-08 17:49:30][31634]spp_handle_process, 2, 39
+[2010-12-08 17:49:40][DEBUG ]Get client Remote ip = 172.10.6.7,port=58081
+[2010-12-08 17:49:40][DEBUG ]spp_handle_route, 3,main_cmd=291,sub_cmd=0
+[2010-12-08 17:49:40][31634]spp_handle_process, 3, 39
+[2010-12-08 17:50:15][DEBUG ]Get client Remote ip = 172.10.6.7,port=58084
+[2010-12-08 17:50:15][DEBUG ]spp_handle_route, 4,main_cmd=291,sub_cmd=0
+[2010-12-08 17:50:15][31634]spp_handle_process, 4, 39
+[2010-12-08 17:50:17][DEBUG ]Get client Remote ip = 172.10.6.7,port=58087
+[2010-12-08 17:50:17][DEBUG ]spp_handle_route, 5,main_cmd=291,sub_cmd=0
+[2010-12-08 17:50:17][31634]spp_handle_process, 5, 39
+[2010-12-08 17:50:17][DEBUG ]Get client Remote ip = 172.10.6.7,port=58090
+[2010-12-08 17:50:17][DEBUG ]spp_handle_route, 6,main_cmd=291,sub_cmd=0
+[2010-12-08 17:50:17][31634]spp_handle_process, 6, 39
+[2010-12-08 17:50:33][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 17:51:00][DEBUG ]Get client Remote ip = 172.10.6.7,port=50454
+[2010-12-08 17:51:00][DEBUG ]spp_handle_route, 7,main_cmd=291,sub_cmd=0
+[2010-12-08 17:51:00][31634]spp_handle_process, 7, 39
+[2010-12-08 17:51:01][DEBUG ]Get client Remote ip = 172.10.6.7,port=50457
+[2010-12-08 17:51:01][DEBUG ]spp_handle_route, 8,main_cmd=291,sub_cmd=0
+[2010-12-08 17:51:01][31646]spp_handle_process, 8, 39
+[2010-12-08 17:51:02][DEBUG ]Get client Remote ip = 172.10.6.7,port=50460
+[2010-12-08 17:51:02][DEBUG ]spp_handle_route, 9,main_cmd=291,sub_cmd=0
+[2010-12-08 17:51:02][31646]spp_handle_process, 9, 39
+[2010-12-08 17:51:02][DEBUG ]Get client Remote ip = 172.10.6.7,port=50463
+[2010-12-08 17:51:02][DEBUG ]spp_handle_route, 10,main_cmd=291,sub_cmd=0
+[2010-12-08 17:51:02][31634]spp_handle_process, 10, 39
+[2010-12-08 17:51:09][DEBUG ]Get client Remote ip = 172.10.6.7,port=50466
+[2010-12-08 17:51:09][DEBUG ]spp_handle_route, 11,main_cmd=291,sub_cmd=0
+[2010-12-08 17:51:09][31634]spp_handle_process, 11, 39
+[2010-12-08 17:51:10][DEBUG ]Get client Remote ip = 172.10.6.7,port=50469
+[2010-12-08 17:51:10][DEBUG ]spp_handle_route, 12,main_cmd=291,sub_cmd=0
+[2010-12-08 17:51:10][31634]spp_handle_process, 12, 39
+[2010-12-08 17:51:20][DEBUG ]spp_handle_fini
+[2010-12-08 17:51:20][DEBUG ]spp_handle_fini
+[2010-12-08 17:52:01][DEBUG ]spp_handle_init, ../etc/module_conf.xml, 2
+[2010-12-08 17:52:21][DEBUG ]Get client Remote ip = 172.10.6.7,port=50493
+[2010-12-08 17:52:21][DEBUG ]spp_handle_route, 1,main_cmd=291,sub_cmd=0
+[2010-12-08 17:52:21][31688]spp_handle_process, 1, 39
+[2010-12-08 17:52:24][DEBUG ]spp_handle_fini

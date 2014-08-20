@@ -1,0 +1,89 @@
+[2010-12-08 16:42:52][NORMAL]Worker start!!!
+[2010-12-08 16:43:34][NORMAL]Worker start!!!
+[2010-12-08 16:43:34][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:44:18][NORMAL]Worker start!!!
+[2010-12-08 16:44:18][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:44:18][NORMAL]worker started!
+[2010-12-08 16:44:41][NORMAL]recv quit signal
+[2010-12-08 16:44:41][NORMAL]worker stopped!
+[2010-12-08 16:44:49][NORMAL]Worker start!!!
+[2010-12-08 16:44:49][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:44:49][NORMAL]worker started!
+[2010-12-08 16:54:28][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=2,len=39
+[2010-12-08 16:54:28][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=2,len=39
+[2010-12-08 16:54:28][DEBUG ]CDefaultWorker,ator senddata, flow=2,len=39
+[2010-12-08 16:54:38][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=3,len=39
+[2010-12-08 16:54:38][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=3,len=39
+[2010-12-08 16:54:38][DEBUG ]CDefaultWorker,ator senddata, flow=3,len=39
+[2010-12-08 16:54:39][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=4,len=39
+[2010-12-08 16:54:39][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=4,len=39
+[2010-12-08 16:54:39][DEBUG ]CDefaultWorker,ator senddata, flow=4,len=39
+[2010-12-08 16:54:40][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=5,len=39
+[2010-12-08 16:54:40][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=5,len=39
+[2010-12-08 16:54:40][DEBUG ]CDefaultWorker,ator senddata, flow=5,len=39
+[2010-12-08 17:27:39][NORMAL]recv quit signal
+[2010-12-08 17:27:39][NORMAL]worker stopped!
+[2010-12-08 17:37:08][NORMAL]Worker start!!!
+[2010-12-08 17:37:08][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:37:08][NORMAL]worker started!
+[2010-12-08 17:38:04][NORMAL]recv quit signal
+[2010-12-08 17:38:04][NORMAL]worker stopped!
+[2010-12-08 17:42:57][NORMAL]Worker start!!!
+[2010-12-08 17:42:57][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:42:57][NORMAL]worker started!
+[2010-12-08 17:43:30][NORMAL]recv quit signal
+[2010-12-08 17:43:30][NORMAL]worker stopped!
+[2010-12-08 17:49:04][NORMAL]Worker start!!!
+[2010-12-08 17:49:04][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:49:04][NORMAL]worker started!
+[2010-12-08 17:49:26][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=1,len=39
+[2010-12-08 17:49:26][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=1,len=39
+[2010-12-08 17:49:26][DEBUG ]CDefaultWorker,ator senddata, flow=1,len=39
+[2010-12-08 17:49:30][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=2,len=39
+[2010-12-08 17:49:30][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=2,len=39
+[2010-12-08 17:49:30][DEBUG ]CDefaultWorker,ator senddata, flow=2,len=39
+[2010-12-08 17:49:40][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=3,len=39
+[2010-12-08 17:49:40][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=3,len=39
+[2010-12-08 17:49:40][DEBUG ]CDefaultWorker,ator senddata, flow=3,len=39
+[2010-12-08 17:50:15][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=4,len=39
+[2010-12-08 17:50:15][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=4,len=39
+[2010-12-08 17:50:15][DEBUG ]CDefaultWorker,ator senddata, flow=4,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=5,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=5,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultWorker,ator senddata, flow=5,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=6,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=6,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultWorker,ator senddata, flow=6,len=39
+[2010-12-08 17:50:33][NORMAL]Worker start!!!
+[2010-12-08 17:50:33][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:50:33][NORMAL]worker started!
+[2010-12-08 17:51:00][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=7,len=39
+[2010-12-08 17:51:00][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=7,len=39
+[2010-12-08 17:51:00][DEBUG ]CDefaultWorker,ator senddata, flow=7,len=39
+[2010-12-08 17:51:01][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=8,len=39
+[2010-12-08 17:51:01][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=8,len=39
+[2010-12-08 17:51:01][DEBUG ]CDefaultWorker,ator senddata, flow=8,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=9,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=9,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultWorker,ator senddata, flow=9,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=10,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=10,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultWorker,ator senddata, flow=10,len=39
+[2010-12-08 17:51:09][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=11,len=39
+[2010-12-08 17:51:09][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=11,len=39
+[2010-12-08 17:51:09][DEBUG ]CDefaultWorker,ator senddata, flow=11,len=39
+[2010-12-08 17:51:10][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=12,len=39
+[2010-12-08 17:51:10][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=12,len=39
+[2010-12-08 17:51:10][DEBUG ]CDefaultWorker,ator senddata, flow=12,len=39
+[2010-12-08 17:51:20][NORMAL]recv quit signal
+[2010-12-08 17:51:20][NORMAL]worker stopped!
+[2010-12-08 17:51:20][NORMAL]recv quit signal
+[2010-12-08 17:51:20][NORMAL]worker stopped!
+[2010-12-08 17:52:01][NORMAL]Worker start!!!
+[2010-12-08 17:52:01][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:52:01][NORMAL]worker started!
+[2010-12-08 17:52:21][DEBUG ]CDefaultWorker::ator_recvdata_v2, flow=1,len=39
+[2010-12-08 17:52:21][DEBUG ]CDefaultWorker::ator_recvdata_v2,ator recvdone, flow=1,len=39
+[2010-12-08 17:52:21][DEBUG ]CDefaultWorker,ator senddata, flow=1,len=39
+[2010-12-08 17:52:24][NORMAL]recv quit signal
+[2010-12-08 17:52:24][NORMAL]worker stopped!

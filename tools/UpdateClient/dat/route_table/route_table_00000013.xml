@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-------------------------------------------------------
+	 WHEN modify config data, MUST upgrade version!!!
+
+	 version format:
+		YYYY(year) + MM(month) + DD(day) + NN(00-99)
+		e.g.:
+		2009062200
+		2009062201
+		...
+		2009062299
+-------------------------------------------------------->
+
+<group version="2009062900" serv_type="0x00000013" route="key % 1">
+	<node id="1" type="tcp" begin="0" end="0" serv_addr="172.10.0.25" port="1285" />
+</group>

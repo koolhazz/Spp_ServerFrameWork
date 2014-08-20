@@ -1,0 +1,10 @@
+COMM_INC = ../../../libcomm/include
+PROT_INC = ../../../libprotocol/include
+SPP_INC = ../../include
+CFLAGS += -g -O2 -Wall -D_GNU_SOURCE
+LIB += -rdynamic
+
+TARGET=ipc_key_print
+all : $(TARGET)
+OBJ = main.o	
+include ./incl_comm.mk	

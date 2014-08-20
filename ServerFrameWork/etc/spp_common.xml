@@ -1,0 +1,17 @@
+<!--spp_common.xml-->
+<?xml version="1.0" encoding="utf-8" ?>
+<common>
+	<timer basepath="." exe="spp_timer" etc="../etc/spp_timer.xml" flag="dotcom_FlashSession_Time_Flag" />
+	<!-- <report basepath="." exe="spp_report" etc="../etc/spp_report.xml" flag="dotcom_FlashSession_Report_Flag" /> -->
+	 <updateclient basepath="." exe="spp_update" etc="../etc/spp_update.xml" flag="dotcom_FlashSession_Update_Flag" />
+	<!--框架日志配置信息，其中日志的前缀生成规则为:程序名+当前进程所属的组号，-->
+	<fwlog level="0" type="0" path="../fwlog" maxfilesize="10240000" maxfilenum="10" key_base="0x03500000" />
+	<!--业务日志配置信息，其中日志的前缀生成规则为:程序名+当前进程所属的组号，-->
+	<log level="0" type="0" path="../log" maxfilesize="10240000" maxfilenum="10" key_base="0x03501000" />
+	<!--共享内存管道配置信息，其中send_key与recv_key的生成规则与组相关-->
+	<ShmQueue  send_size="16" recv_size="16" key_base="0x03502000" />	
+	<!--监控上报配置-->
+	<moni intervial="15" shmsize="10240000" key_base="0x03503000" />
+	<!--统计-->
+	<stat mapfile="../dat/stat/spp_stat.dat" output="../dat/stat/output.txt" interval="60" stat_reset_days="1" stat_reset_time="00:00:00" />
+</common>

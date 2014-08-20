@@ -1,0 +1,23 @@
+COMM_INC = ../../../libcomm/include
+PROT_INC = ../../../libprotocol/include
+SPP_INC = ../../include
+COMM_LIB = ../../../libcomm/lib
+PROT_LIB = ../../../libprotocol/lib
+SRC_TOP = ..
+
+CFLAGS += -g -O2 -Wall -D_GNU_SOURCE -D_SPP_CTRL #-DOPEN_PRINT
+INC += -I$(COMM_INC) -I$(SPP_INC) -I$(PROT_INC)
+LIB += -lpthread
+LIB += -L$(COMM_LIB) -lcomm -L$(PROT_LIB) -lprotocol
+
+TARGET=spp_ctrl 
+all : $(TARGET)
+OBJ = main.o			\
+	defaultctrl.o 	\
+	$(SRC_TOP)/base/serverbase.o \
+	$(SRC_TOP)/base/procmon.o	\
+	$(SRC_TOP)/base/stat.o	\
+	$(SRC_TOP)/base/loadtable.o	\
+
+
+include ../incl_comm.mk	

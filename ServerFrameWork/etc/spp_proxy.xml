@@ -1,0 +1,11 @@
+<!--spp_proxy.xml-->
+<?xml version="1.0" encoding="utf-8" ?>
+<proxy>
+	<acceptor type="socket" maxconn="100000" maxpkg="100000"  timeout="3600" check_expire_interval="0">
+		<entry type="tcp" if="eth1" port="8090" />
+	</acceptor>
+	<connector type="shm" maxconn="100000" timeout="180000" send_size="100000" recv_size="100000"/>
+	<module bin="FlashSessionServer.so" etc="../etc/module_conf.xml" local_handle="" />
+	<!--whitelist or blacklist为白名单或者黑名单的IP列表文件，白名单和黑名单不能共存，白名单优先-->
+	<iptable whitelist="" blacklist="" />
+</proxy>

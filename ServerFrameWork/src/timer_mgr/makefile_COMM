@@ -1,0 +1,12 @@
+COMM_INC = ../../../libcomm/include
+COMM_LIB = ../../../libcomm/lib
+
+CFLAGS += -g -O2 -Wall -D_GNU_SOURCE -D_MP_MODE -fPIC
+
+INC += -I$(COMM_INC)
+LIB += -L$(COMM_LIB) -lcomm 
+TARGET=spp_timer
+all : $(TARGET)
+OBJ = main.o
+
+include ../incl_comm.mk

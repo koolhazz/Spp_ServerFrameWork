@@ -1,0 +1,1717 @@
+[2010-12-08 16:42:52][NORMAL]starting Ctrl ...
+[2010-12-08 16:42:52][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 16:42:52][NORMAL]controller started!
+[2010-12-08 16:42:52][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 16:42:52][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[22031], 2010-12-08 16:43:10
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22031], 2010-12-08 16:43:28
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+[2010-12-08 16:43:34][NORMAL]starting Ctrl ...
+[2010-12-08 16:43:34][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 16:43:34][NORMAL]controller started!
+[2010-12-08 16:43:34][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 16:43:34][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[22031], 2010-12-08 16:43:47
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22043], 2010-12-08 16:43:52
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22031], 2010-12-08 16:44:05
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22043], 2010-12-08 16:44:10
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+[2010-12-08 16:44:18][NORMAL]starting Ctrl ...
+[2010-12-08 16:44:18][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 16:44:18][NORMAL]controller started!
+[2010-12-08 16:44:18][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 16:44:18][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[22031], 2010-12-08 16:44:22
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22043], 2010-12-08 16:44:28
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22063          0       0       0       29432   0       Wed Dec  8 16:44:18 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22065          0       0       0       0       0       Wed Dec  8 16:44:18 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22057], 2010-12-08 16:44:36
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22031], 2010-12-08 16:44:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+[2010-12-08 16:44:41][NORMAL]recv quit signal
+[2010-12-08 16:44:41][NORMAL]controller stopped!
+[2010-12-08 16:44:41][NORMAL]recv quit signal
+[2010-12-08 16:44:41][NORMAL]controller stopped!
+[2010-12-08 16:44:41][NORMAL]recv quit signal
+[2010-12-08 16:44:41][NORMAL]controller stopped!
+[2010-12-08 16:44:49][NORMAL]starting Ctrl ...
+[2010-12-08 16:44:49][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 16:44:49][NORMAL]controller started!
+[2010-12-08 16:44:49][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 16:44:49][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[22107], 2010-12-08 16:45:07
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:45:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:45:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:45:25
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:45:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:45:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:45:43
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:45:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:45:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:46:01
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:45:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:45:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:46:19
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:46:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:46:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:46:37
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:46:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:46:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:46:55
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:46:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:46:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:47:13
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:47:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:47:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:47:31
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:47:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:47:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:47:49
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29432   0       Wed Dec  8 16:47:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:47:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:48:07
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   1       Wed Dec  8 16:48:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:48:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:48:23
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   1       Wed Dec  8 16:48:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:48:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:48:40
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:48:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:48:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:48:58
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:48:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:48:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:49:16
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:49:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:49:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:49:34
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:49:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:49:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:49:53
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:49:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:49:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:50:10
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:50:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:50:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:50:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:50:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:50:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:50:43
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:50:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:50:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:50:59
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:50:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:50:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:51:17
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:51:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:51:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:51:34
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:51:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:51:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:51:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:51:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:51:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:52:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:52:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:52:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:52:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:52:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:52:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:52:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:52:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:52:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:53:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:52:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:52:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:53:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:53:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:53:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:53:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:53:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:53:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:53:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:53:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:53:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:54:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:54:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:54:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:54:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:54:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       0       0       17824   0       Wed Dec  8 16:54:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:54:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:54:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:54:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:55:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:54:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:54:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:55:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:55:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:55:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:55:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:55:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:55:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:56:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:56:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:56:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:56:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:56:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:56:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:56:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:56:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:56:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:56:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:56:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:56:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:57:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:57:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:57:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:57:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:57:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:57:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:57:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:57:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:57:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:58:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:57:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:57:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:58:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:58:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:58:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:58:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:58:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:58:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:59:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:58:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:58:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:59:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:59:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:59:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:59:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:59:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:59:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 16:59:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 16:59:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 16:59:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:00:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:00:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:00:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:00:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:00:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:00:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:00:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:00:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:00:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:01:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:01:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:01:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:01:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:01:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:01:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:01:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:01:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:01:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:02:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:01:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:01:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:02:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:02:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:02:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:02:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:02:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:02:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:02:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:02:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:02:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:03:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:03:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:03:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:03:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:03:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:03:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:03:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:03:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:03:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:04:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:04:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:04:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:04:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:04:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:04:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:04:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:04:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:04:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:05:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:04:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:04:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:05:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:05:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:05:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:05:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:05:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:05:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:05:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:05:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:05:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:06:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:06:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:06:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:06:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:06:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:06:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:06:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:06:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:06:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:07:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:06:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:06:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:07:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:07:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:07:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:07:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:07:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:07:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:08:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:08:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:08:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:08:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:08:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:08:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:08:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:08:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:08:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:08:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:08:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:08:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:09:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:09:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:09:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:09:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:09:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:09:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:09:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:09:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:09:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:10:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:09:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:09:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:10:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:10:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:10:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:10:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:10:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:10:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:11:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:10:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:10:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:11:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:11:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:11:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:11:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:11:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:11:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:11:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:11:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:11:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:12:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:12:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:12:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:12:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:12:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:12:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:12:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:12:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:12:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:13:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:13:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:13:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:13:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:13:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:13:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:13:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:13:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:13:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:14:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:13:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:13:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:14:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:14:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:14:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:14:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:14:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:14:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:14:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:14:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:14:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:15:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:15:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:15:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:15:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:15:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:15:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:15:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:15:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:15:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:16:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:16:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:16:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:16:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:16:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:16:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:16:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:16:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:16:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:17:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:16:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:16:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:17:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:17:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:17:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:17:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:17:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:17:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:17:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:17:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:17:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:18:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:18:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:18:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:18:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:18:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:18:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:18:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:18:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:18:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:19:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:18:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:18:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:19:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:19:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:19:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:19:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:19:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:19:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:20:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:20:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:20:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:20:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:20:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:20:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:20:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:20:33 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:20:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:20:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:20:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:20:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:21:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:21:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:21:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:21:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:21:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:21:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:21:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:21:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:21:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:22:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:21:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:21:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:22:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:22:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:22:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:22:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:22:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:22:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:23:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:22:57 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:22:57 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:23:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:23:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:23:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:23:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:23:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:23:29 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:23:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:23:45 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:23:45 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:24:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:24:01 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:24:01 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:24:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:24:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:24:17 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:24:50
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:24:49 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:24:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:25:08
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:25:05 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:25:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:25:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:25:21 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:25:21 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:25:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:25:37 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:25:37 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:26:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:25:53 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:25:53 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:26:20
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:26:09 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:26:09 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:26:38
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:26:25 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:26:25 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:26:56
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:26:41 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:26:41 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:27:14
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:27:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:27:13 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[22107], 2010-12-08 17:27:32
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22115          0       0       0       29564   0       Wed Dec  8 17:27:29 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   22117          0       1000    4       17824   0       Wed Dec  8 17:27:29 2010
+--------------------------------------------------------------------------------------
+[2010-12-08 17:27:39][NORMAL]recv quit signal
+[2010-12-08 17:27:39][NORMAL]controller stopped!
+[2010-12-08 17:37:08][NORMAL]starting Ctrl ...
+[2010-12-08 17:37:08][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 17:37:08][NORMAL]controller started!
+[2010-12-08 17:37:08][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 17:37:08][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[31383], 2010-12-08 17:37:26
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31389          0       0       0       29432   0       Wed Dec  8 17:37:24 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31391          0       1000    4       17824   0       Wed Dec  8 17:37:24 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31383], 2010-12-08 17:37:44
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31389          0       0       0       29432   0       Wed Dec  8 17:37:40 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31391          0       1000    4       17824   0       Wed Dec  8 17:37:40 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31383], 2010-12-08 17:38:02
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31389          0       0       0       29432   0       Wed Dec  8 17:37:56 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31391          0       1000    4       17824   0       Wed Dec  8 17:37:56 2010
+--------------------------------------------------------------------------------------
+[2010-12-08 17:38:04][NORMAL]recv quit signal
+[2010-12-08 17:38:04][NORMAL]controller stopped!
+[2010-12-08 17:42:57][NORMAL]starting Ctrl ...
+[2010-12-08 17:42:57][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 17:42:57][NORMAL]controller started!
+[2010-12-08 17:42:57][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 17:42:57][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[31511], 2010-12-08 17:43:15
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31517          0       0       0       29432   0       Wed Dec  8 17:43:13 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31519          0       1000    4       17824   0       Wed Dec  8 17:43:13 2010
+--------------------------------------------------------------------------------------
+[2010-12-08 17:43:30][NORMAL]recv quit signal
+[2010-12-08 17:43:30][NORMAL]controller stopped!
+[2010-12-08 17:49:04][NORMAL]starting Ctrl ...
+[2010-12-08 17:49:04][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 17:49:04][NORMAL]controller started!
+[2010-12-08 17:49:04][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 17:49:04][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[31626], 2010-12-08 17:49:22
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29432   0       Wed Dec  8 17:49:20 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    4       17824   0       Wed Dec  8 17:49:20 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31626], 2010-12-08 17:49:40
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:49:36 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    2       17824   0       Wed Dec  8 17:49:36 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31626], 2010-12-08 17:49:58
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:49:52 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    2       17824   0       Wed Dec  8 17:49:52 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31626], 2010-12-08 17:50:16
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:50:08 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    2       17824   0       Wed Dec  8 17:50:08 2010
+--------------------------------------------------------------------------------------
+[2010-12-08 17:50:33][NORMAL]starting Ctrl ...
+[2010-12-08 17:50:33][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 17:50:33][NORMAL]controller started!
+[2010-12-08 17:50:33][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 17:50:33][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[31626], 2010-12-08 17:50:34
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:50:24 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :2    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    1       17824   0       Wed Dec  8 17:50:24 2010
+Proc Ok   31646          0       1000    1       0       0       Wed Dec  8 17:50:33 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31638], 2010-12-08 17:50:51
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :0    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31626], 2010-12-08 17:50:52
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:50:40 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :2    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    1       17824   0       Wed Dec  8 17:50:40 2010
+Proc Ok   31646          0       1000    1       17824   0       Wed Dec  8 17:50:49 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31638], 2010-12-08 17:51:09
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:50:56 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :2    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    1       17824   0       Wed Dec  8 17:50:56 2010
+Proc Ok   31646          0       1000    1       17824   0       Wed Dec  8 17:51:05 2010
+--------------------------------------------------------------------------------------
+
+TProcMonStat[31626], 2010-12-08 17:51:10
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31632          0       0       0       29564   0       Wed Dec  8 17:50:40 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :2    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31634          0       1000    1       17824   0       Wed Dec  8 17:50:40 2010
+Proc Ok   31646          0       1000    1       17824   0       Wed Dec  8 17:50:49 2010
+--------------------------------------------------------------------------------------
+[2010-12-08 17:51:20][NORMAL]recv quit signal
+[2010-12-08 17:51:20][NORMAL]recv quit signal
+[2010-12-08 17:51:20][NORMAL]controller stopped!
+[2010-12-08 17:51:20][NORMAL]controller stopped!
+[2010-12-08 17:52:01][NORMAL]starting Ctrl ...
+[2010-12-08 17:52:01][DEBUG ]map_file=../dat/stat/spp_stat.dat,output_file=../dat/stat/output.txt,output_interval=60,reset_days=1,reset_time=0:0:0
+[2010-12-08 17:52:01][NORMAL]controller started!
+[2010-12-08 17:52:01][NORMAL]group warnning, groupid = 0, event = 32
+[2010-12-08 17:52:01][NORMAL]group warnning, groupid = 1, event = 32
+
+TProcMonStat[31680], 2010-12-08 17:52:19
+Group     0    spp_proxy           ../etc/spp_proxy.xml          1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31686          0       0       0       29432   0       Wed Dec  8 17:52:17 2010
+--------------------------------------------------------------------------------------
+Group     1    spp_worker          ../etc/spp_worker.xml         1    1    30   0    0    0    0    :1    :0    
+procstat | pid     | watermark | srate| delay | memused |conn_num |timestamp
+Proc Ok   31688          0       1000    1       17824   0       Wed Dec  8 17:52:17 2010
+--------------------------------------------------------------------------------------
+[2010-12-08 17:52:24][NORMAL]recv quit signal
+[2010-12-08 17:52:24][NORMAL]controller stopped!

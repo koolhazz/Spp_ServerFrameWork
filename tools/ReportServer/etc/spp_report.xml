@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<spp_report>
+	<common pathname="../etc/spp_common.xml" />	
+	<connector type="socket" maxconn="100000" timeout="60">
+		<entry type="tcp" server="172.10.0.25" port="4000" />
+	</connector>
+	<load interval="5" ipaddress="172.10.0.21" tcpport="8000" udpport="8000" servertype="1" nettype="1" maxconn="100000" />
+</spp_report>
+

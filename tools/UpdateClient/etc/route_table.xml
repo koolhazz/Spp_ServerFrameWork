@@ -1,0 +1,15 @@
+<!--route_table.xml -->
+<?xml version="1.0" encoding="utf-8" ?>
+<routetable basepath="../dat/route_table" prefix="route_table" >
+	<!--՚֢oָ¶¨Ӧԃ̹ѨҪl½ӵĺ󷋷�?-->
+	<group serv_type="0x00000001" server_name="auth" />
+	<group serv_type="0x00000002" server_name="status" />
+	<group serv_type="0x00000003" server_name="TblBasicInfo" />
+	<group serv_type="0x00000013" server_name="TblFriend" />
+	<group serv_type="0x00000014" server_name="TblGroup" />
+	<group serv_type="0x00000015" server_name="TblUserInfoVer" />
+	<group serv_type="0x00000016" server_name="TblUserPopedom" />
+	<group serv_type="0x00000017" server_name="TblAddFriendVeirfy" />
+	<group serv_type="0x00000018" server_name="TblSignInfo" />
+	<group serv_type="0x00FF0001" server_name="combo" />
+</routetable>

@@ -1,0 +1,9 @@
+<!--spp_ctrl.xml-->
+<?xml version="1.0" encoding="utf-8" ?>
+<controller>
+	<procmon groupnum="2" check_group_interval="180" >
+		<!--在这里对组进行配置-->
+		<group start_group="0" end_group="0" basepath="." exe="spp_proxy" etc="../etc/spp_proxy.xml" flag="dotcom_FlashSession_Proxy_Flag" exitsignal="10" maxprocnum="1" minprocnum="1" heartbeat="30" watermark="0" minsrate="0" maxdelay="0" maxmemused="0"/>
+		<group start_group="1" end_group="1" basepath="." exe="spp_worker" etc="../etc/spp_worker.xml" flag="dotcom_FlashSession_Work_Flag" exitsignal="10" maxprocnum="1" minprocnum="1" heartbeat="30" watermark="0" minsrate="0" maxdelay="0" maxmemused="0"/>
+	</procmon>
+</controller>

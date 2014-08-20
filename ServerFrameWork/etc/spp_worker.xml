@@ -1,0 +1,7 @@
+<!--spp_worker.xml-->
+<?xml version="1.0" encoding="utf-8" ?>
+<worker>
+	<acceptor type="shm" maxconn="100000" maxpkg="100000" timeout="180000" send_size="100000" recv_size="100000" />
+	<connector type="socket"  maxconn="1000" maxpkg="100000"  timeout="3600" check_expire_interval="0" route_table="../etc/route_table.xml" />
+	<module bin="FlashSessionServer.so" etc="../etc/module_conf.xml" />
+</worker>

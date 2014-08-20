@@ -1,0 +1,463 @@
+[2010-12-08 16:42:52][NORMAL]Proxy start!!!
+[2010-12-08 16:42:52][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:43:34][NORMAL]Proxy start!!!
+[2010-12-08 16:43:34][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:44:18][NORMAL]Proxy start!!!
+[2010-12-08 16:44:18][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:44:18][NORMAL]load module ok!
+[2010-12-08 16:44:18][NORMAL]init conf ok!
+[2010-12-08 16:44:18][NORMAL]proxy started!
+[2010-12-08 16:44:18][DEBUG ]moncli run!
+[2010-12-08 16:44:34][DEBUG ]moncli run!
+[2010-12-08 16:44:41][NORMAL]recv quit signal
+[2010-12-08 16:44:41][NORMAL]proxy stopped!
+[2010-12-08 16:44:49][NORMAL]Proxy start!!!
+[2010-12-08 16:44:49][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 16:44:49][NORMAL]load module ok!
+[2010-12-08 16:44:49][NORMAL]init conf ok!
+[2010-12-08 16:44:49][NORMAL]proxy started!
+[2010-12-08 16:44:49][DEBUG ]moncli run!
+[2010-12-08 16:45:05][DEBUG ]moncli run!
+[2010-12-08 16:45:21][DEBUG ]moncli run!
+[2010-12-08 16:45:37][DEBUG ]moncli run!
+[2010-12-08 16:45:53][DEBUG ]moncli run!
+[2010-12-08 16:46:09][DEBUG ]moncli run!
+[2010-12-08 16:46:25][DEBUG ]moncli run!
+[2010-12-08 16:46:41][DEBUG ]moncli run!
+[2010-12-08 16:46:57][DEBUG ]moncli run!
+[2010-12-08 16:47:13][DEBUG ]moncli run!
+[2010-12-08 16:47:29][DEBUG ]moncli run!
+[2010-12-08 16:47:45][DEBUG ]moncli run!
+[2010-12-08 16:47:52][DEBUG ]flow=1,remote ip=172.10.6.115,remote port=22521
+[2010-12-08 16:47:52][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 16:47:54][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=5
+[2010-12-08 16:47:54][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:47:56][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=11
+[2010-12-08 16:47:56][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:47:57][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=16
+[2010-12-08 16:47:57][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:47:58][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=18
+[2010-12-08 16:47:58][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:47:58][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=20
+[2010-12-08 16:47:58][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:47:58][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=22
+[2010-12-08 16:47:58][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:01][DEBUG ]moncli run!
+[2010-12-08 16:48:17][DEBUG ]moncli run!
+[2010-12-08 16:48:24][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=27
+[2010-12-08 16:48:24][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:25][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=32
+[2010-12-08 16:48:25][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:26][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=34
+[2010-12-08 16:48:26][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:26][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=36
+[2010-12-08 16:48:26][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:27][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=38
+[2010-12-08 16:48:27][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:27][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=43
+[2010-12-08 16:48:27][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:27][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=48
+[2010-12-08 16:48:27][DEBUG ]processed_len=0,prot_len=0
+[2010-12-08 16:48:29][DEBUG ]CDefaultProxy ator disconnect,flow=1
+[2010-12-08 16:48:29][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 16:48:29][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 16:48:33][DEBUG ]moncli run!
+[2010-12-08 16:48:49][DEBUG ]moncli run!
+[2010-12-08 16:49:05][DEBUG ]moncli run!
+[2010-12-08 16:49:21][DEBUG ]moncli run!
+[2010-12-08 16:49:37][DEBUG ]moncli run!
+[2010-12-08 16:49:53][DEBUG ]moncli run!
+[2010-12-08 16:50:09][DEBUG ]moncli run!
+[2010-12-08 16:50:25][DEBUG ]moncli run!
+[2010-12-08 16:50:41][DEBUG ]moncli run!
+[2010-12-08 16:50:57][DEBUG ]moncli run!
+[2010-12-08 16:51:13][DEBUG ]moncli run!
+[2010-12-08 16:51:29][DEBUG ]moncli run!
+[2010-12-08 16:51:45][DEBUG ]moncli run!
+[2010-12-08 16:52:01][DEBUG ]moncli run!
+[2010-12-08 16:52:17][DEBUG ]moncli run!
+[2010-12-08 16:52:33][DEBUG ]moncli run!
+[2010-12-08 16:52:49][DEBUG ]moncli run!
+[2010-12-08 16:53:05][DEBUG ]moncli run!
+[2010-12-08 16:53:21][DEBUG ]moncli run!
+[2010-12-08 16:53:37][DEBUG ]moncli run!
+[2010-12-08 16:53:53][DEBUG ]moncli run!
+[2010-12-08 16:54:09][DEBUG ]moncli run!
+[2010-12-08 16:54:25][DEBUG ]moncli run!
+[2010-12-08 16:54:28][DEBUG ]flow=2,remote ip=172.10.6.7,remote port=53222
+[2010-12-08 16:54:28][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 16:54:28][DEBUG ]CDefaultProxy ator recvdata v2, flow=2,len=39
+[2010-12-08 16:54:28][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 16:54:28][DEBUG ]CDefaultProxy ator recvdone, flow=2,len=39,proto_len=39,route_no=1
+[2010-12-08 16:54:28][DEBUG ]CDefaultProxy ctor sendto,flow=2,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 16:54:28][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 16:54:28][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 16:54:28][DEBUG ]CDefaultProxy ctor recvdata, 2,39
+[2010-12-08 16:54:28][DEBUG ]CDefaultProxy ator disconnect,flow=2
+[2010-12-08 16:54:28][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 16:54:28][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 16:54:38][DEBUG ]flow=3,remote ip=172.10.6.7,remote port=53225
+[2010-12-08 16:54:38][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 16:54:38][DEBUG ]CDefaultProxy ator recvdata v2, flow=3,len=39
+[2010-12-08 16:54:38][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 16:54:38][DEBUG ]CDefaultProxy ator recvdone, flow=3,len=39,proto_len=39,route_no=1
+[2010-12-08 16:54:38][DEBUG ]CDefaultProxy ctor sendto,flow=3,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 16:54:38][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 16:54:38][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 16:54:38][DEBUG ]CDefaultProxy ctor recvdata, 3,39
+[2010-12-08 16:54:38][DEBUG ]CDefaultProxy ator disconnect,flow=3
+[2010-12-08 16:54:38][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 16:54:38][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 16:54:39][DEBUG ]flow=4,remote ip=172.10.6.7,remote port=53228
+[2010-12-08 16:54:39][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 16:54:39][DEBUG ]CDefaultProxy ator recvdata v2, flow=4,len=39
+[2010-12-08 16:54:39][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 16:54:39][DEBUG ]CDefaultProxy ator recvdone, flow=4,len=39,proto_len=39,route_no=1
+[2010-12-08 16:54:39][DEBUG ]CDefaultProxy ctor sendto,flow=4,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 16:54:39][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 16:54:39][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 16:54:39][DEBUG ]CDefaultProxy ctor recvdata, 4,39
+[2010-12-08 16:54:39][DEBUG ]CDefaultProxy ator disconnect,flow=4
+[2010-12-08 16:54:39][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 16:54:39][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 16:54:40][DEBUG ]flow=5,remote ip=172.10.6.7,remote port=53231
+[2010-12-08 16:54:40][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 16:54:40][DEBUG ]CDefaultProxy ator recvdata v2, flow=5,len=39
+[2010-12-08 16:54:40][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 16:54:40][DEBUG ]CDefaultProxy ator recvdone, flow=5,len=39,proto_len=39,route_no=1
+[2010-12-08 16:54:40][DEBUG ]CDefaultProxy ctor sendto,flow=5,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 16:54:40][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 16:54:40][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 16:54:40][DEBUG ]CDefaultProxy ctor recvdata, 5,39
+[2010-12-08 16:54:40][DEBUG ]CDefaultProxy ator disconnect,flow=5
+[2010-12-08 16:54:40][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 16:54:40][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 16:54:41][DEBUG ]moncli run!
+[2010-12-08 16:54:57][DEBUG ]moncli run!
+[2010-12-08 16:55:13][DEBUG ]moncli run!
+[2010-12-08 16:55:29][DEBUG ]moncli run!
+[2010-12-08 16:55:45][DEBUG ]moncli run!
+[2010-12-08 16:56:01][DEBUG ]moncli run!
+[2010-12-08 16:56:17][DEBUG ]moncli run!
+[2010-12-08 16:56:33][DEBUG ]moncli run!
+[2010-12-08 16:56:49][DEBUG ]moncli run!
+[2010-12-08 16:57:05][DEBUG ]moncli run!
+[2010-12-08 16:57:21][DEBUG ]moncli run!
+[2010-12-08 16:57:37][DEBUG ]moncli run!
+[2010-12-08 16:57:53][DEBUG ]moncli run!
+[2010-12-08 16:58:09][DEBUG ]moncli run!
+[2010-12-08 16:58:25][DEBUG ]moncli run!
+[2010-12-08 16:58:41][DEBUG ]moncli run!
+[2010-12-08 16:58:57][DEBUG ]moncli run!
+[2010-12-08 16:59:13][DEBUG ]moncli run!
+[2010-12-08 16:59:29][DEBUG ]moncli run!
+[2010-12-08 16:59:45][DEBUG ]moncli run!
+[2010-12-08 17:00:01][DEBUG ]moncli run!
+[2010-12-08 17:00:17][DEBUG ]moncli run!
+[2010-12-08 17:00:33][DEBUG ]moncli run!
+[2010-12-08 17:00:49][DEBUG ]moncli run!
+[2010-12-08 17:01:05][DEBUG ]moncli run!
+[2010-12-08 17:01:21][DEBUG ]moncli run!
+[2010-12-08 17:01:37][DEBUG ]moncli run!
+[2010-12-08 17:01:53][DEBUG ]moncli run!
+[2010-12-08 17:02:09][DEBUG ]moncli run!
+[2010-12-08 17:02:25][DEBUG ]moncli run!
+[2010-12-08 17:02:41][DEBUG ]moncli run!
+[2010-12-08 17:02:57][DEBUG ]moncli run!
+[2010-12-08 17:03:13][DEBUG ]moncli run!
+[2010-12-08 17:03:29][DEBUG ]moncli run!
+[2010-12-08 17:03:45][DEBUG ]moncli run!
+[2010-12-08 17:04:01][DEBUG ]moncli run!
+[2010-12-08 17:04:17][DEBUG ]moncli run!
+[2010-12-08 17:04:33][DEBUG ]moncli run!
+[2010-12-08 17:04:49][DEBUG ]moncli run!
+[2010-12-08 17:05:05][DEBUG ]moncli run!
+[2010-12-08 17:05:21][DEBUG ]moncli run!
+[2010-12-08 17:05:37][DEBUG ]moncli run!
+[2010-12-08 17:05:53][DEBUG ]moncli run!
+[2010-12-08 17:06:09][DEBUG ]moncli run!
+[2010-12-08 17:06:25][DEBUG ]moncli run!
+[2010-12-08 17:06:41][DEBUG ]moncli run!
+[2010-12-08 17:06:57][DEBUG ]moncli run!
+[2010-12-08 17:07:13][DEBUG ]moncli run!
+[2010-12-08 17:07:29][DEBUG ]moncli run!
+[2010-12-08 17:07:45][DEBUG ]moncli run!
+[2010-12-08 17:08:01][DEBUG ]moncli run!
+[2010-12-08 17:08:17][DEBUG ]moncli run!
+[2010-12-08 17:08:33][DEBUG ]moncli run!
+[2010-12-08 17:08:49][DEBUG ]moncli run!
+[2010-12-08 17:09:05][DEBUG ]moncli run!
+[2010-12-08 17:09:21][DEBUG ]moncli run!
+[2010-12-08 17:09:37][DEBUG ]moncli run!
+[2010-12-08 17:09:53][DEBUG ]moncli run!
+[2010-12-08 17:10:09][DEBUG ]moncli run!
+[2010-12-08 17:10:25][DEBUG ]moncli run!
+[2010-12-08 17:10:41][DEBUG ]moncli run!
+[2010-12-08 17:10:57][DEBUG ]moncli run!
+[2010-12-08 17:11:13][DEBUG ]moncli run!
+[2010-12-08 17:11:29][DEBUG ]moncli run!
+[2010-12-08 17:11:45][DEBUG ]moncli run!
+[2010-12-08 17:12:01][DEBUG ]moncli run!
+[2010-12-08 17:12:17][DEBUG ]moncli run!
+[2010-12-08 17:12:33][DEBUG ]moncli run!
+[2010-12-08 17:12:49][DEBUG ]moncli run!
+[2010-12-08 17:13:05][DEBUG ]moncli run!
+[2010-12-08 17:13:21][DEBUG ]moncli run!
+[2010-12-08 17:13:37][DEBUG ]moncli run!
+[2010-12-08 17:13:53][DEBUG ]moncli run!
+[2010-12-08 17:14:09][DEBUG ]moncli run!
+[2010-12-08 17:14:25][DEBUG ]moncli run!
+[2010-12-08 17:14:41][DEBUG ]moncli run!
+[2010-12-08 17:14:57][DEBUG ]moncli run!
+[2010-12-08 17:15:13][DEBUG ]moncli run!
+[2010-12-08 17:15:29][DEBUG ]moncli run!
+[2010-12-08 17:15:45][DEBUG ]moncli run!
+[2010-12-08 17:16:01][DEBUG ]moncli run!
+[2010-12-08 17:16:17][DEBUG ]moncli run!
+[2010-12-08 17:16:33][DEBUG ]moncli run!
+[2010-12-08 17:16:49][DEBUG ]moncli run!
+[2010-12-08 17:17:05][DEBUG ]moncli run!
+[2010-12-08 17:17:21][DEBUG ]moncli run!
+[2010-12-08 17:17:37][DEBUG ]moncli run!
+[2010-12-08 17:17:53][DEBUG ]moncli run!
+[2010-12-08 17:18:09][DEBUG ]moncli run!
+[2010-12-08 17:18:25][DEBUG ]moncli run!
+[2010-12-08 17:18:41][DEBUG ]moncli run!
+[2010-12-08 17:18:57][DEBUG ]moncli run!
+[2010-12-08 17:19:13][DEBUG ]moncli run!
+[2010-12-08 17:19:29][DEBUG ]moncli run!
+[2010-12-08 17:19:45][DEBUG ]moncli run!
+[2010-12-08 17:20:01][DEBUG ]moncli run!
+[2010-12-08 17:20:17][DEBUG ]moncli run!
+[2010-12-08 17:20:33][DEBUG ]moncli run!
+[2010-12-08 17:20:49][DEBUG ]moncli run!
+[2010-12-08 17:21:05][DEBUG ]moncli run!
+[2010-12-08 17:21:21][DEBUG ]moncli run!
+[2010-12-08 17:21:37][DEBUG ]moncli run!
+[2010-12-08 17:21:53][DEBUG ]moncli run!
+[2010-12-08 17:22:09][DEBUG ]moncli run!
+[2010-12-08 17:22:25][DEBUG ]moncli run!
+[2010-12-08 17:22:41][DEBUG ]moncli run!
+[2010-12-08 17:22:57][DEBUG ]moncli run!
+[2010-12-08 17:23:13][DEBUG ]moncli run!
+[2010-12-08 17:23:29][DEBUG ]moncli run!
+[2010-12-08 17:23:45][DEBUG ]moncli run!
+[2010-12-08 17:24:01][DEBUG ]moncli run!
+[2010-12-08 17:24:17][DEBUG ]moncli run!
+[2010-12-08 17:24:33][DEBUG ]moncli run!
+[2010-12-08 17:24:49][DEBUG ]moncli run!
+[2010-12-08 17:25:05][DEBUG ]moncli run!
+[2010-12-08 17:25:21][DEBUG ]moncli run!
+[2010-12-08 17:25:37][DEBUG ]moncli run!
+[2010-12-08 17:25:53][DEBUG ]moncli run!
+[2010-12-08 17:26:09][DEBUG ]moncli run!
+[2010-12-08 17:26:25][DEBUG ]moncli run!
+[2010-12-08 17:26:41][DEBUG ]moncli run!
+[2010-12-08 17:26:57][DEBUG ]moncli run!
+[2010-12-08 17:27:13][DEBUG ]moncli run!
+[2010-12-08 17:27:29][DEBUG ]moncli run!
+[2010-12-08 17:27:39][NORMAL]recv quit signal
+[2010-12-08 17:27:39][NORMAL]proxy stopped!
+[2010-12-08 17:37:08][NORMAL]Proxy start!!!
+[2010-12-08 17:37:08][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:37:08][NORMAL]load module ok!
+[2010-12-08 17:37:08][NORMAL]init conf ok!
+[2010-12-08 17:37:08][NORMAL]proxy started!
+[2010-12-08 17:37:08][DEBUG ]moncli run!
+[2010-12-08 17:37:24][DEBUG ]moncli run!
+[2010-12-08 17:37:40][DEBUG ]moncli run!
+[2010-12-08 17:37:56][DEBUG ]moncli run!
+[2010-12-08 17:38:04][NORMAL]recv quit signal
+[2010-12-08 17:38:04][NORMAL]proxy stopped!
+[2010-12-08 17:42:57][NORMAL]Proxy start!!!
+[2010-12-08 17:42:57][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:42:57][NORMAL]load module ok!
+[2010-12-08 17:42:57][NORMAL]init conf ok!
+[2010-12-08 17:42:57][NORMAL]proxy started!
+[2010-12-08 17:42:57][DEBUG ]moncli run!
+[2010-12-08 17:43:13][DEBUG ]moncli run!
+[2010-12-08 17:43:29][DEBUG ]moncli run!
+[2010-12-08 17:43:30][NORMAL]recv quit signal
+[2010-12-08 17:43:30][NORMAL]proxy stopped!
+[2010-12-08 17:49:04][NORMAL]Proxy start!!!
+[2010-12-08 17:49:04][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:49:04][NORMAL]load module ok!
+[2010-12-08 17:49:04][NORMAL]init conf ok!
+[2010-12-08 17:49:04][NORMAL]proxy started!
+[2010-12-08 17:49:04][DEBUG ]moncli run!
+[2010-12-08 17:49:20][DEBUG ]moncli run!
+[2010-12-08 17:49:26][DEBUG ]flow=1,remote ip=172.10.6.7,remote port=58075
+[2010-12-08 17:49:26][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:49:26][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=39
+[2010-12-08 17:49:26][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:49:26][DEBUG ]CDefaultProxy ator recvdone, flow=1,len=39,proto_len=39,route_no=1
+[2010-12-08 17:49:26][DEBUG ]CDefaultProxy ctor sendto,flow=1,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:49:26][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:49:26][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:49:26][DEBUG ]CDefaultProxy ctor recvdata, 1,39
+[2010-12-08 17:49:26][DEBUG ]CDefaultProxy ator disconnect,flow=1
+[2010-12-08 17:49:26][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:49:26][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:49:30][DEBUG ]flow=2,remote ip=172.10.6.7,remote port=58078
+[2010-12-08 17:49:30][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:49:30][DEBUG ]CDefaultProxy ator recvdata v2, flow=2,len=39
+[2010-12-08 17:49:30][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:49:30][DEBUG ]CDefaultProxy ator recvdone, flow=2,len=39,proto_len=39,route_no=1
+[2010-12-08 17:49:30][DEBUG ]CDefaultProxy ctor sendto,flow=2,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:49:30][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:49:30][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:49:30][DEBUG ]CDefaultProxy ctor recvdata, 2,39
+[2010-12-08 17:49:30][DEBUG ]CDefaultProxy ator disconnect,flow=2
+[2010-12-08 17:49:30][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:49:30][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:49:36][DEBUG ]moncli run!
+[2010-12-08 17:49:40][DEBUG ]flow=3,remote ip=172.10.6.7,remote port=58081
+[2010-12-08 17:49:40][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:49:40][DEBUG ]CDefaultProxy ator recvdata v2, flow=3,len=39
+[2010-12-08 17:49:40][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:49:40][DEBUG ]CDefaultProxy ator recvdone, flow=3,len=39,proto_len=39,route_no=1
+[2010-12-08 17:49:40][DEBUG ]CDefaultProxy ctor sendto,flow=3,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:49:40][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:49:40][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:49:40][DEBUG ]CDefaultProxy ctor recvdata, 3,39
+[2010-12-08 17:49:40][DEBUG ]CDefaultProxy ator disconnect,flow=3
+[2010-12-08 17:49:40][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:49:40][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:49:52][DEBUG ]moncli run!
+[2010-12-08 17:50:08][DEBUG ]moncli run!
+[2010-12-08 17:50:15][DEBUG ]flow=4,remote ip=172.10.6.7,remote port=58084
+[2010-12-08 17:50:15][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:50:15][DEBUG ]CDefaultProxy ator recvdata v2, flow=4,len=39
+[2010-12-08 17:50:15][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:50:15][DEBUG ]CDefaultProxy ator recvdone, flow=4,len=39,proto_len=39,route_no=1
+[2010-12-08 17:50:15][DEBUG ]CDefaultProxy ctor sendto,flow=4,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:50:15][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:50:15][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:50:15][DEBUG ]CDefaultProxy ctor recvdata, 4,39
+[2010-12-08 17:50:15][DEBUG ]CDefaultProxy ator disconnect,flow=4
+[2010-12-08 17:50:15][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:50:15][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:50:17][DEBUG ]flow=5,remote ip=172.10.6.7,remote port=58087
+[2010-12-08 17:50:17][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator recvdata v2, flow=5,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator recvdone, flow=5,len=39,proto_len=39,route_no=1
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ctor sendto,flow=5,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:50:17][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:50:17][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ctor recvdata, 5,39
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator disconnect,flow=5
+[2010-12-08 17:50:17][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:50:17][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:50:17][DEBUG ]flow=6,remote ip=172.10.6.7,remote port=58090
+[2010-12-08 17:50:17][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator recvdata v2, flow=6,len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator recvdone, flow=6,len=39,proto_len=39,route_no=1
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ctor sendto,flow=6,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:50:17][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:50:17][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ctor recvdata, 6,39
+[2010-12-08 17:50:17][DEBUG ]CDefaultProxy ator disconnect,flow=6
+[2010-12-08 17:50:17][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:50:17][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:50:24][DEBUG ]moncli run!
+[2010-12-08 17:50:33][NORMAL]Proxy start!!!
+[2010-12-08 17:50:40][DEBUG ]moncli run!
+[2010-12-08 17:50:56][DEBUG ]moncli run!
+[2010-12-08 17:51:00][DEBUG ]flow=7,remote ip=172.10.6.7,remote port=50454
+[2010-12-08 17:51:00][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:51:00][DEBUG ]CDefaultProxy ator recvdata v2, flow=7,len=39
+[2010-12-08 17:51:00][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:51:00][DEBUG ]CDefaultProxy ator recvdone, flow=7,len=39,proto_len=39,route_no=1
+[2010-12-08 17:51:00][DEBUG ]CDefaultProxy ctor sendto,flow=7,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:51:00][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:51:00][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:51:00][DEBUG ]CDefaultProxy ctor recvdata, 7,39
+[2010-12-08 17:51:00][DEBUG ]CDefaultProxy ator disconnect,flow=7
+[2010-12-08 17:51:00][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:51:00][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:51:01][DEBUG ]flow=8,remote ip=172.10.6.7,remote port=50457
+[2010-12-08 17:51:01][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:51:01][DEBUG ]CDefaultProxy ator recvdata v2, flow=8,len=39
+[2010-12-08 17:51:01][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:51:01][DEBUG ]CDefaultProxy ator recvdone, flow=8,len=39,proto_len=39,route_no=1
+[2010-12-08 17:51:01][DEBUG ]CDefaultProxy ctor sendto,flow=8,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:51:01][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:51:01][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:51:01][DEBUG ]CDefaultProxy ctor recvdata, 8,39
+[2010-12-08 17:51:01][DEBUG ]CDefaultProxy ator disconnect,flow=8
+[2010-12-08 17:51:01][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:51:01][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:51:02][DEBUG ]flow=9,remote ip=172.10.6.7,remote port=50460
+[2010-12-08 17:51:02][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator recvdata v2, flow=9,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator recvdone, flow=9,len=39,proto_len=39,route_no=1
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ctor sendto,flow=9,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:51:02][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:51:02][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ctor recvdata, 9,39
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator disconnect,flow=9
+[2010-12-08 17:51:02][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:51:02][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:51:02][DEBUG ]flow=10,remote ip=172.10.6.7,remote port=50463
+[2010-12-08 17:51:02][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator recvdata v2, flow=10,len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator recvdone, flow=10,len=39,proto_len=39,route_no=1
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ctor sendto,flow=10,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:51:02][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:51:02][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ctor recvdata, 10,39
+[2010-12-08 17:51:02][DEBUG ]CDefaultProxy ator disconnect,flow=10
+[2010-12-08 17:51:02][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:51:02][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:51:09][DEBUG ]flow=11,remote ip=172.10.6.7,remote port=50466
+[2010-12-08 17:51:09][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:51:09][DEBUG ]CDefaultProxy ator recvdata v2, flow=11,len=39
+[2010-12-08 17:51:09][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:51:09][DEBUG ]CDefaultProxy ator recvdone, flow=11,len=39,proto_len=39,route_no=1
+[2010-12-08 17:51:09][DEBUG ]CDefaultProxy ctor sendto,flow=11,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:51:09][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:51:09][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:51:09][DEBUG ]CDefaultProxy ctor recvdata, 11,39
+[2010-12-08 17:51:09][DEBUG ]CDefaultProxy ator disconnect,flow=11
+[2010-12-08 17:51:09][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:51:09][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:51:10][DEBUG ]flow=12,remote ip=172.10.6.7,remote port=50469
+[2010-12-08 17:51:10][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:51:10][DEBUG ]CDefaultProxy ator recvdata v2, flow=12,len=39
+[2010-12-08 17:51:10][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:51:10][DEBUG ]CDefaultProxy ator recvdone, flow=12,len=39,proto_len=39,route_no=1
+[2010-12-08 17:51:10][DEBUG ]CDefaultProxy ctor sendto,flow=12,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:51:10][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:51:10][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:51:10][DEBUG ]CDefaultProxy ctor recvdata, 12,39
+[2010-12-08 17:51:10][DEBUG ]CDefaultProxy ator disconnect,flow=12
+[2010-12-08 17:51:10][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:51:10][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:51:12][DEBUG ]moncli run!
+[2010-12-08 17:51:20][NORMAL]recv quit signal
+[2010-12-08 17:51:20][NORMAL]proxy stopped!
+[2010-12-08 17:52:01][NORMAL]Proxy start!!!
+[2010-12-08 17:52:01][NORMAL]load module FlashSessionServer.so, ../etc/module_conf.xml
+[2010-12-08 17:52:01][NORMAL]load module ok!
+[2010-12-08 17:52:01][NORMAL]init conf ok!
+[2010-12-08 17:52:01][NORMAL]proxy started!
+[2010-12-08 17:52:01][DEBUG ]moncli run!
+[2010-12-08 17:52:17][DEBUG ]moncli run!
+[2010-12-08 17:52:21][DEBUG ]flow=1,remote ip=172.10.6.7,remote port=50493
+[2010-12-08 17:52:21][ERROR ]CDefaultProxy ator_connected,route_no error!
+[2010-12-08 17:52:21][DEBUG ]CDefaultProxy ator recvdata v2, flow=1,len=39
+[2010-12-08 17:52:21][DEBUG ]CDefaultProxy ator_recvdata_v2,blob->len=39,blob->ext_len=24,blob->ext_type=16
+[2010-12-08 17:52:21][DEBUG ]CDefaultProxy ator recvdone, flow=1,len=39,proto_len=39,route_no=1
+[2010-12-08 17:52:21][DEBUG ]CDefaultProxy ctor sendto,flow=1,route_no=1,blob_len=39,ext_len=24
+[2010-12-08 17:52:21][DEBUG ]blob len=39,prot_len=39
+[2010-12-08 17:52:21][DEBUG ]processed_len=39,prot_len=39
+[2010-12-08 17:52:21][DEBUG ]CDefaultProxy ctor recvdata, 1,39
+[2010-12-08 17:52:21][DEBUG ]CDefaultProxy ator disconnect,flow=1
+[2010-12-08 17:52:21][NORMAL]ator_disconn,proxy->event_func_list_[ET_DISCONNECT] is null
+[2010-12-08 17:52:21][ERROR ]CDefaultProxy ator_disconn,route_no error!
+[2010-12-08 17:52:24][NORMAL]recv quit signal
+[2010-12-08 17:52:24][NORMAL]proxy stopped!

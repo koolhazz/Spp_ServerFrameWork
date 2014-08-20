@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<updateconfig>
+	<common pathname="../etc/spp_common.xml" />
+	<log level="0" type="0" path="../log" prefix="spp_update" maxfilesize="1024000000" maxfilenum="10" semkey="./" />
+	<connector type="socket" maxconn="100000" timeout="60" >
+		<entry type="tcp" server="172.10.6.57" port="7003" />
+	</connector>
+	<routetable etc="../etc/route_table.xml" check_interval="10"  />
+</updateconfig>

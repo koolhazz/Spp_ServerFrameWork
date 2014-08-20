@@ -1,0 +1,32 @@
+COMM_INC = ../../../libcomm/include
+PROT_INC = ../../../libprotocol/include
+SPP_INC = ../../include
+COMM_LIB = ../../../libcomm/lib
+PROT_LIB = ../../../libprotocol/lib
+SRC_TOP = ..
+
+CFLAGS += -g -O2 -Wall -D_GNU_SOURCE -D_SPP_PROXY #-DOPEN_PRINT
+INC += -I$(COMM_INC) -I$(PROT_INC) -I$(SPP_INC) 
+LIB += -lpthread -ldl -rdynamic
+LIB += -L$(COMM_LIB) -lcomm -L$(PROT_LIB) -lprotocol
+
+TARGET=spp_proxy 
+all : $(TARGET)
+OBJ = main.o			\
+	defaultproxy.o 	\
+	$(SRC_TOP)/base/serverbase.o \
+	$(SRC_TOP)/base/benchadapter.o	\
+	$(SRC_TOP)/base/stat.o	\
+	$(SRC_TOP)/base/procmon.o	\
+	$(SRC_TOP)/base/load.o \
+	$(SRC_TOP)/base/loadtable.o \
+	$(SRC_TOP)/base/shmcommu.o	\
+	$(SRC_TOP)/base/sockcommu.o	\
+	$(SRC_TOP)/base/connset.o	\
+	$(SRC_TOP)/base/cache.o	\
+	$(SRC_TOP)/base/mempool.o	\
+	$(SRC_TOP)/base/socket.o	\
+	$(SRC_TOP)/base/epollflow.o	\
+
+
+include ../incl_comm.mk	

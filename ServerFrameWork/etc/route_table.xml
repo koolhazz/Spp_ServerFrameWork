@@ -1,0 +1,8 @@
+<!--route_table.xml -->
+<?xml version="1.0" encoding="utf-8" ?>
+<!--basepath表示路由表文件存储的位置，prefix表示路由表文件的前缀,路由表文件位置为basepath/prefix_serv_type.xml-->
+<routetable basepath="../dat/route_table" prefix="route_table" >
+	<!--在这里指定应用所需要连接的后端服务,serv_type表示服务类型，servername表示服务名称
+  	<group serv_type="0x00007001" servername="tblfinancingnews" />
+	-->
+</routetable>

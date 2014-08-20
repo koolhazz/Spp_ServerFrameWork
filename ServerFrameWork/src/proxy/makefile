@@ -1,0 +1,2 @@
+CFLAGS += -fPIC -D_MP_MODE  #-DOPEN_PRINT -D_PROCMON_LOG  -D_XPRINT_
+include makefile_COMM
