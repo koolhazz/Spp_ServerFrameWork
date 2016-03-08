@@ -86,7 +86,7 @@ int CDefaultCtrl::do_fork_ex(const char * basepath, const char * proc_name, cons
 void CDefaultCtrl::realrun(int argc, char* argv[])
 {        
     //初始化配置	
-    initconf(false);
+    initconf(false); //这里会加载worker
 
     time_t pre_stat_reset_time;//上次重置统计值的时间
     bool  today_reset_flag;//当天重置标记
